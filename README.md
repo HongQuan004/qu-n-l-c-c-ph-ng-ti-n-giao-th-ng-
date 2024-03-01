@@ -28,12 +28,8 @@ Dự án "Quản Lí Các Phương Tiện Giao Thông" là một ứng dụng đ
 
 ## Đóng Góp
 
-Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng phát triển phần mềm. Nếu bạn có bất kỳ ý tưởng, báo lỗi, hoặc đề xuất cải tiến, vui lòng gửi Pull Request hoặc mở một Issue trên repository của chúng tôi.
+Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng phát triển phần mềm. Nếu bạn có bất kỳ ý tưởng, báo lỗi, hoặc đề xuất cải tiến, vui lòng gửi lại cho chúng tôi.
 
 ## Tác Giả
 
-Dự án "Quản Lí Các Phương Tiện Giao Thông" được phát triển bởi [tên công ty hoặc tên nhóm phát triển].
-
-## Giấy Phép
-
-Dự án này được phân phối dưới giấy phép [giấy phép]. Xem tệp LICENSE để biết thêm chi tiết.
+Dự án "Quản Lí Các Phương Tiện Giao Thông" được phát triển bởi nhóm 21 lớp OOP thuộc trường Đại học Phenikaa.
